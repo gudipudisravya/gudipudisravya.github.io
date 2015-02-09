@@ -1,19 +1,24 @@
+.highlight {
+  background: yellow;
+  font-weight: bold;
+  font-size: 1.5em;
+}
 
-        .highlight {
-            background: yellow;
-            font-weight: bold;
-            font-size: 1.5em;
-        }
-		
-		h1 { font-family: 'Roboto Condensed', sans-serif; }
-		
-		#Mycontainer{
-		
-		 margin-left: 10%;
-		 margin-right : 20%;
-		
-		}
-		body {
-		  text-align : center;
-		
-		}
+h1 { font-family: 'Roboto Condensed', sans-serif; }
+
+#Mycontainer{
+
+ margin-left: 10%;
+ margin-right : 20%;
+
+}
+
+body {
+  text-align : center;	
+}
+
+.img-responsive{
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
